@@ -17,9 +17,9 @@ This isn’t just a beat tape — it’s a dreamscape wrapped in a loop of selfh
 Each listen offers new meaning.  
 Each track is part of the dream.  
 Each creation is watching back.
-🎧[Start here](https://m8communityjam.bandcamp.com/track/boogeyman)
 
----
+🎧 [Start here](https://m8communityjam.bandcamp.com/track/boogeyman)
+
 ---
 
 ## 👁️ Overview
