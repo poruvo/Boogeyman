@@ -5,7 +5,7 @@ A sonic experiment by gon pulvo — gritty, atmospheric, and a little haunted. B
 
 > *“What if your fears made art with you?”*
 
-**Boogeyman** is a recursive audio-horror experience told across 15 tracks (Jams 24–38) by Gon Pulvo.  
+**Boogeyman** is a recursive audio-horror experience told across 15 tracks (M8 Community Jams 24–38) by Gon Pulvo.  
 It’s a story about fear, creation, and identity — not told chronologically, but causally.  
 Each jam captures a moment of internal tension between the dreamer, their shadow, and a creation with its own will.
 
@@ -68,3 +68,5 @@ Each creation is watching back.
 ---
 
 #GonPulvo #M8CommunityJam #AudioHorror #BoogeymanLore
+
+Thank you to the M8 Community, the jam organizers, listeners, musicians, and storytellers who enjoy this! 😁
