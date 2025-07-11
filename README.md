@@ -62,7 +62,7 @@ All tracks available on [Bandcamp](https://m8communityjam.bandcamp.com/):
 12. [Recursive (Jam 35)](https://m8communityjam.bandcamp.com/track/recursive)  
 13. [Since (Jam 36)](https://m8communityjam.bandcamp.com/track/since)  
 14. [glimpse (Jam 37)](https://m8communityjam.bandcamp.com/track/glimpse)  
-15. **Blend (Jam 38)** – *Coming soon...*
+15. [blend (Jam 38)](https://m8communityjam.bandcamp.com/album/m8-community-jam-38-kaiju)
 
 ---
 
