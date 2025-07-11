@@ -17,7 +17,9 @@ This isn’t just a beat tape — it’s a dreamscape wrapped in a loop of selfh
 Each listen offers new meaning.  
 Each track is part of the dream.  
 Each creation is watching back.
+🎧[Start here](https://m8communityjam.bandcamp.com/track/boogeyman)
 
+---
 ---
 
 ## 👁️ Overview
@@ -61,10 +63,6 @@ All tracks available on [Bandcamp](https://m8communityjam.bandcamp.com/):
 13. [Since (Jam 36)](https://m8communityjam.bandcamp.com/track/since)  
 14. [glimpse (Jam 37)](https://m8communityjam.bandcamp.com/track/glimpse)  
 15. **Blend (Jam 38)** – *Coming soon...*
-
----
-
-🎧 [Start here](https://m8communityjam.bandcamp.com/track/boogeyman)
 
 ---
 
