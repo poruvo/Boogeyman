@@ -48,24 +48,24 @@ At first, the dreamer fights their fear. But over time, both the nightmare and t
 
 All tracks available on [Bandcamp](https://m8communityjam.bandcamp.com/):
 
-1. [Boogeyman (Jam 24)](https://m8communityjam.bandcamp.com/track/boogeyman)  
-2. [Fleeting Visages (Jam 25)](https://m8communityjam.bandcamp.com/track/fleeting-visages)  
-3. [Bob’s Boss (Jam 26)](https://m8communityjam.bandcamp.com/track/bobs-boss)  
-4. [Prismatic Shift (Jam 27)](https://m8communityjam.bandcamp.com/track/prismatic-shift)  
-5. [Going (Jam 28)](https://m8communityjam.bandcamp.com/track/going)  
-6. [Hot Honey (Jam 29)](https://m8communityjam.bandcamp.com/track/hot-honey)  
-7. [Deepen (Jam 30)](https://m8communityjam.bandcamp.com/track/deepen)  
-8. [Fabrications (Jam 31)](https://m8communityjam.bandcamp.com/track/fabrications)  
-9. [Swansong (Jam 32)](https://m8communityjam.bandcamp.com/track/swansong)  
-10. [Unsettling (Jam 33)](https://m8communityjam.bandcamp.com/track/unsettling)  
-11. [Without (Jam 34)](https://m8communityjam.bandcamp.com/track/without)  
-12. [Recursive (Jam 35)](https://m8communityjam.bandcamp.com/track/recursive)  
-13. [Since (Jam 36)](https://m8communityjam.bandcamp.com/track/since)  
-14. [glimpse (Jam 37)](https://m8communityjam.bandcamp.com/track/glimpse)  
-15. [blend (Jam 38)](https://m8communityjam.bandcamp.com/track/blend)
+1. [Boogeyman (Jam 24) - Soundscape/Composition/Voice](https://m8communityjam.bandcamp.com/track/boogeyman)  
+2. [Fleeting Visages - Downtempo/Soundscape (Jam 25)](https://m8communityjam.bandcamp.com/track/fleeting-visages)  
+3. [Bob’s Boss - Hip-hop, Dance, UK Drill , Themed Rap(Jam 26)](https://m8communityjam.bandcamp.com/track/bobs-boss)  
+4. [Prismatic Shift - Electronic/Dance/Up tempo/Hip-Hop(Jam 27)](https://m8communityjam.bandcamp.com/track/prismatic-shift)  
+5. [Going - Synth/Trap Type Beat (Jam 28)](https://m8communityjam.bandcamp.com/track/going)  
+6. [Hot Honey - Hip-Hop/DnB/Voice Acting (Jam 29)](https://m8communityjam.bandcamp.com/track/hot-honey)  
+7. [Deepen - Hip-Hop, Beats, Instrumental (Jam 30)](https://m8communityjam.bandcamp.com/track/deepen)  
+8. [Fabrications - Ambient, Easy Listening, Downtempo(Jam 31)](https://m8communityjam.bandcamp.com/track/fabrications)  
+9. [Swansong - Synth Rock, Hardcore Pop (Jam 32)](https://m8communityjam.bandcamp.com/track/swansong)  
+10. [Unsettling - Synth, Alternative, Retro(Jam 33)](https://m8communityjam.bandcamp.com/track/unsettling)  
+11. [Without - Dark Synthwave, Vocals (Jam 34)](https://m8communityjam.bandcamp.com/track/without)  
+12. [Recursive Synth, Experimental, Electronic (Jam 35)](https://m8communityjam.bandcamp.com/track/recursive)  
+13. [Since - Downtempo, Beats, Easy Listening, Neo-Soul(Jam 36)](https://m8communityjam.bandcamp.com/track/since)  
+14. [glimpse - Synthwave/DnB/Jungle (Jam 37)](https://m8communityjam.bandcamp.com/track/glimpse)  
+15. [blend - Dark HipHop/Pop/Voice Acting (Jam 38)](https://m8communityjam.bandcamp.com/track/blend)
 
 ---
 
-#GonPulvo #M8CommunityJam #AudioHorror #BoogeymanLore
+#GonPulvo #M8CommunityJam #AudioHorror #Boogeyman
 
 Thank you to the M8 Community, the jam organizers, listeners, musicians, and storytellers who enjoy this! 😁
