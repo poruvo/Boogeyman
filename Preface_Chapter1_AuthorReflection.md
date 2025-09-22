@@ -11,7 +11,9 @@ There are a few perspectives on can look at this narrative from. Each character 
 
 As I enter more explanation, the sequence of events will be made clear 🙃 (Part 2 is starting, and currently in progress)
 
-# Chapter 1 - Author Reflection
+# Boogeyman
+[Link to Song Video (YouTube)](https://youtu.be/yHh0rnJO9QY)
+## Chapter 1 - Author Reflection
 In this segment, the theme was 'We Ride At Dawn'; I needed something to be conquered, but at the time I didn't think it would be 'me' 😅.
 
 
