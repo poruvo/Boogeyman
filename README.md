@@ -19,6 +19,7 @@ Each track is part of the dream.
 Each creation is watching back.
 
 🎧 [Start here](https://m8communityjam.bandcamp.com/track/boogeyman)
+🎥[YouTube Playlist (2025)](https://www.youtube.com/watch?v=tAFss9tNX1w&list=PLplE2hKEV9b3xdf0F25YqJTqeH0WISWVn)
 
 ---
 
