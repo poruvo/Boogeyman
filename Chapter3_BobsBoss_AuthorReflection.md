@@ -6,7 +6,7 @@ The 'nightmare' uses a creation that instilled fear into me to model the overwri
 The creative context: the M8 Community Jam theme was **“Necrodancer”**, and this track dropped near Halloween. So I shaped it as a drill-styled spooky rap, a haunted memo from my subconscious.
 
 ## YouTube Song Video
-(Link to Song Video)[https://youtu.be/tAFss9tNX1w?si=HiCEJuvem0yiQPhp]
+[Link to Song Video](https://youtu.be/tAFss9tNX1w?si=HiCEJuvem0yiQPhp)
 
 ## **Recollections (Plot Experience)**
 
