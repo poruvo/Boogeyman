@@ -26,77 +26,77 @@ The urge to drink black coffee. I don't even like coffee.
 That laugh... if this is me, I'm terrified.
 
 ## Lyrics
-(Verse 1)
-Shadows on command 
-Life in my hand
-They move, they drill 
-My armys flame, I run this game 
-They crush at will
+(Verse 1)  
+Shadows on command  
+Life in my hand  
+They move, they drill  
+My armys flame, I run this game   
+They crush at will  
 
-Graves open wide, the body slide
-They hunt, They kill
-I am king below, let 'em go,
-They take the hill 
+Graves open wide, the body slide  
+They hunt, They kill  
+I am king below, let 'em go,  
+They take the hill  
 
-Bones grinding cold,
-Body controlled,
-Don't sleep, snatch their whims,
-Destiny Sold
+Bones grinding cold,  
+Body controlled,  
+Don't sleep, snatch their whims,  
+Destiny Sold  
 
-Blood stains where you sleep
-I revive the deep
-Taught Satan in school,
-Death it under my rule 
+Blood stains where you sleep  
+I revive the deep  
+Taught Satan in school,  
+Death it under my rule  
 
-(Chorus)
-I raise the dead, 
-I break the chains 
-No rest for souls 
-They feel my reign
-The night is mine 
-I bend the rules 
-The world is cold, 
-I make it cruel 
+(Chorus)  
+I raise the dead,  
+I break the chains  
+No rest for souls  
+They feel my reign  
+The night is mine  
+I bend the rules  
+The world is cold,  
+I make it cruel  
 
-I pull the strings,
-Come at the end 
-The light wont rise
-And none defend
+I pull the strings,  
+Come at the end  
+The light wont rise  
+And none defend  
 
-I own the dark 
-Control the game 
-All life will fall 
-Beneath my name 
+I own the dark  
+Control the game  
+All life will fall  
+Beneath my name  
 
-(Verse 2)
-Got souls on the grind
-no sight no mind
-They clear my lane
+(Verse 2)  
+Got souls on the grind  
+no sight no mind  
+They clear my lane  
 
-I'm stacking the dead,
-They eat what's fed
-They run through pain
+I'm stacking the dead,  
+They eat what's fed  
+They run through pain  
 
-Pulled from the dirt
-Don't need to hurt 
-I own the chain
-Curse every step
-Zombie adept
-I make it rain - corpses 
-Follow close, I do the most
-Flip the script
-Darkness in my grip 
-They rise, drip, no blood is missed 
-I command the graves,
-Your fam my slaves, 
-I make em blitz,
-I control it all, the rise the fall
-There's no resist 
+Pulled from the dirt  
+Don't need to hurt  
+I own the chain  
+Curse every step  
+Zombie adept  
+I make it rain - corpses  
+Follow close, I do the most  
+Flip the script  
+Darkness in my grip   
+They rise, drip, no blood is missed  
+I command the graves,  
+Your fam my slaves,   
+I make em blitz,  
+I control it all, the rise the fall  
+There's no resist  
 
-(Chorus)
-(My 'Employee' Laughing)
+(Chorus)  
+(My 'Employee' Laughing)  
 
-## Author Reflection Sabotage
+## Author Reflection 
 When I wrote this song, the community jam theme was 'Necrodancer'. 
 
 At the time, I'd been rewatching Twin Peaks and the idea of possession came into my mind (framing the story of Boogeyman, once I gave the nightmare a method of 'posessing me'.)
