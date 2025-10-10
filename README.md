@@ -60,7 +60,7 @@ All tracks available on [Bandcamp](https://m8communityjam.bandcamp.com/):
 9. [Swansong - Synth Rock, Hardcore Pop (Jam 32)](https://m8communityjam.bandcamp.com/track/swansong)  
 10. [Unsettling - Synth, Alternative, Retro(Jam 33)](https://m8communityjam.bandcamp.com/track/unsettling)  
 11. [Without - Dark Synthwave, Vocals (Jam 34)](https://m8communityjam.bandcamp.com/track/without)  
-12. [Recursive Synth, Experimental, Electronic (Jam 35)](https://m8communityjam.bandcamp.com/track/recursive)  
+12. [Recursive - Synth, Experimental, Electronic (Jam 35)](https://m8communityjam.bandcamp.com/track/recursive)  
 13. [Since - Downtempo, Beats, Easy Listening, Neo-Soul(Jam 36)](https://m8communityjam.bandcamp.com/track/since)  
 14. [glimpse - Synthwave/DnB/Jungle (Jam 37)](https://m8communityjam.bandcamp.com/track/glimpse)  
 15. [blend - Dark HipHop/Pop/Voice Acting (Jam 38)](https://m8communityjam.bandcamp.com/track/blend)
