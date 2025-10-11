@@ -18,6 +18,13 @@ Each listen offers new meaning.
 Each track is part of the dream.  
 Each creation is watching back.
 
+## Bandcamp Release 
+I'll be releasing the project on 10/31/25 on Bandcamp!
+
+There's a physical release as well if you're interested!
+
+https://gonpulvo.bandcamp.com/album/boogeyman
+
 🎧 [Start here](https://m8communityjam.bandcamp.com/track/boogeyman)
 🎥[YouTube Playlist (2025)](https://www.youtube.com/watch?v=tAFss9tNX1w&list=PLplE2hKEV9b3xdf0F25YqJTqeH0WISWVn)
 
