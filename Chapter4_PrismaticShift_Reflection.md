@@ -9,7 +9,7 @@ There's a scratching sensation the back of my skull. It's like something is tryi
 
 My staggered steps... I'm moving like a puppet with loose strings. Visages of light, color, darkness, then nothingness.
 
-As I stumble in circles through these fragmented memories, small orbs of light are radiating and leaving my body. What is happening to me? 
+As I stumble in circles through these fragmented memories, small orbs of light are radiating from me; like fireflies leaving my body. What is happening to me? 
 
 How have I lost control over my own body in my own dream? 
 
