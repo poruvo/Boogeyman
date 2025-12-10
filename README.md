@@ -1,7 +1,7 @@
 # Boogeyman
-A sonic experiment by gon pulvo — gritty, atmospheric, and a little haunted. Breaks, textures, and low-end rituals for late-night wanderers. This repo includes track stems, artwork, and notes from the shadows.
+A sonic experiment by gon pulvo — gritty, atmospheric, and a little haunted. Breaks, textures, and low-end rituals for late-night wanderers. This repo includes lore, artwork, and notes from the shadows.
 
-# 🌀 Boogeyman: A Dream-Built Horror Series by Gon Pulvo
+# 🌀 Boogeyman: A Dream-Built Horror Series by gon pulvo
 
 > *“What if your fears made art with you?”*
 
@@ -18,8 +18,10 @@ Each listen offers new meaning.
 Each track is part of the dream.  
 Each creation is watching back.
 
-## Bandcamp Release 
+## Bandcamp/Physical Release 
 I'll be releasing the project on 10/31/25 on Bandcamp!
+🎧 [Bandcamp](https://gonpulvo.bandcamp.com/album/boogeyman)
+🏪 [Web Store](https://boogeyman.gonpulvo.com)
 
 There's a physical release as well if you're interested!
 
