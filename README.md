@@ -11,6 +11,9 @@ Each jam captures a moment of internal tension between the dreamer, their shadow
 
 This isn’t just a beat tape — it’s a dreamscape wrapped in a loop of selfhood, told through sound.
 
+## About Me
+[Link to my EPK!](https://epk.gonpulvo.com)
+
 ---
 ## 🔄 Listen, Loop, Reflect
 
@@ -189,8 +192,5 @@ The loop begins after the Boogeyman’s creation. Fear, creation, and collapse s
 
 #GonPulvo #M8CommunityJam #AudioHorror #Boogeyman
 
-
-## About Me
-[Link to my EPK!](https://epk.gonpulvo.com)
 
 Thank you to the M8 Community, the jam organizers, listeners, musicians, and storytellers who enjoy this! 😁
