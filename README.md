@@ -189,4 +189,8 @@ The loop begins after the Boogeyman’s creation. Fear, creation, and collapse s
 
 #GonPulvo #M8CommunityJam #AudioHorror #Boogeyman
 
+
+## About Me
+[Link to my EPK!](https://epk.gonpulvo.com)
+
 Thank you to the M8 Community, the jam organizers, listeners, musicians, and storytellers who enjoy this! 😁
