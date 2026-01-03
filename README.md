@@ -13,32 +13,36 @@ The project exists as an album, a physical release, and a performable body of wo
 [Link to my EPK!](https://epk.gonpulvo.com)
 
 ---
-## 🔄 Listen, Loop, Reflect
+## How to approach it
 
 Each listen offers new meaning.  
 Each track is part of the dream.  
 Each creation is watching back.
 
 ## Bandcamp/Physical Release 
-🎧 [Start here](https://m8communityjam.bandcamp.com/track/boogeyman)
+A physical release is available as well.
 🏪 [Web Store](https://boogeyman.gonpulvo.com)
-
-There's a physical release as well if you're interested!
-
+🎧 [Listen here](https://gonpulvo.bandcamp.com/album/Boogeyman)
 🎥[YouTube Playlist (2025)](https://www.youtube.com/watch?v=tAFss9tNX1w&list=PLplE2hKEV9b3xdf0F25YqJTqeH0WISWVn)
+
+ℹ️ The original mixes from 'Boogeyman' are M8 Community Jam tracks are hosted through the jam archive via Bandcamp.
+Proceeds from those releases go to charity via Playing For Change
+[Playing For Change](https://playingforchange.org/).
+⏬ [View full track list below](#-full-track-list)
 
 ---
 ## Presentation Notes
 I didn’t build Boogeyman for a single format.
 
-It’s flexible depending on the space. It fits as
-a listening-room thing, as a live narrative set, or
-an AV or installation-style piece. 
+It’s flexible depending on the space.
+It works as a listening-room piece, a live narrative set,
+or an AV or installation-style work.
 
-It’s also worked as a
-conversation starter in more interdisciplinary settings.
+This project is complete and available now.
 
-If you’re curious or want to talk through how it might fit somewhere,
+It’s also been a conversation starter in more interdisciplinary settings like academia and psychology.
+
+If you want to talk about presenting this or having me perform it somewhere,
 you can reach me here:
 📧 contact@gonpulvo.com
 ---
@@ -177,6 +181,12 @@ The loop begins after the Boogeyman’s creation. Fear, creation, and collapse s
 ## 🎧 Full Track List
 
 All tracks available on [Bandcamp](https://m8communityjam.bandcamp.com/):
+
+ℹ️ Some of the original mixes from *Boogeyman* were released as M8 Community Jam tracks and are hosted through the jam archive on Bandcamp.  
+Proceeds from those releases go to charity via Playing For Change.
+a nonprofit that supports music education and community-led programs worldwide.
+
+
 
 1. [Boogeyman (Jam 24) - Soundscape/Composition/Voice](https://m8communityjam.bandcamp.com/track/boogeyman)  
 2. [Fleeting Visages - Downtempo/Soundscape (Jam 25)](https://m8communityjam.bandcamp.com/track/fleeting-visages)  
