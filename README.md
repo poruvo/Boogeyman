@@ -1,15 +1,13 @@
-# Boogeyman
-A sonic experiment by gon pulvo — gritty, atmospheric, and a little haunted. Breaks, textures, and low-end rituals for late-night wanderers. This repo includes lore, artwork, and notes from the shadows.
-
-# 🌀 Boogeyman: A Dream-Built Horror Series by gon pulvo
+# Boogeyman: A Dream-Built Horror Series by gon pulvo
 
 > *“What if your fears made art with you?”*
 
-**Boogeyman** is a recursive audio-horror experience told across 15 tracks (M8 Community Jams 24–38) by gon pulvo.  
-It’s a story about fear, creation, and identity — not told chronologically, but causally.  
-Each jam captures a moment of internal tension between the dreamer, their shadow, and a creation with its own will.
+Boogeyman is a narrative music project by gon pulvo.
 
-This isn’t just a beat tape — it’s a dreamscape wrapped in a loop of selfhood, told through sound.
+It’s a 15-track audio horror story about fear, creation, and identity.
+Everything takes place within dream experiences and unfolds based on cause and consequence.
+
+The project exists as an album, a physical release, and a performable body of work.
 
 ## About Me
 [Link to my EPK!](https://epk.gonpulvo.com)
@@ -22,17 +20,27 @@ Each track is part of the dream.
 Each creation is watching back.
 
 ## Bandcamp/Physical Release 
-I'll be releasing the project on 10/31/25 on Bandcamp!
-🎧 [Bandcamp](https://gonpulvo.bandcamp.com/album/boogeyman)
+🎧 [Start here](https://m8communityjam.bandcamp.com/track/boogeyman)
 🏪 [Web Store](https://boogeyman.gonpulvo.com)
 
 There's a physical release as well if you're interested!
 
-https://gonpulvo.bandcamp.com/album/boogeyman
-
-🎧 [Start here](https://m8communityjam.bandcamp.com/track/boogeyman)
 🎥[YouTube Playlist (2025)](https://www.youtube.com/watch?v=tAFss9tNX1w&list=PLplE2hKEV9b3xdf0F25YqJTqeH0WISWVn)
 
+---
+## Presentation Notes
+I didn’t build Boogeyman for a single format.
+
+It’s flexible depending on the space. It fits as
+a listening-room thing, as a live narrative set, or
+an AV or installation-style piece. 
+
+It’s also worked as a
+conversation starter in more interdisciplinary settings.
+
+If you’re curious or want to talk through how it might fit somewhere,
+you can reach me here:
+📧 contact@gonpulvo.com
 ---
 
 ## 👁️ Overview
@@ -57,29 +65,15 @@ At first, the dreamer fights their fear. But over time, both the nightmare and t
 
 ---
 
-## 🎧 Full Track List
+## Narrative Notes 
 
-All tracks available on [Bandcamp](https://m8communityjam.bandcamp.com/):
-
-1. [Boogeyman (Jam 24) - Soundscape/Composition/Voice](https://m8communityjam.bandcamp.com/track/boogeyman)  
-2. [Fleeting Visages - Downtempo/Soundscape (Jam 25)](https://m8communityjam.bandcamp.com/track/fleeting-visages)  
-3. [Bob’s Boss - Hip-hop, Dance, UK Drill , Themed Rap(Jam 26)](https://m8communityjam.bandcamp.com/track/bobs-boss)  
-4. [Prismatic Shift - Electronic/Dance/Up tempo/Hip-Hop(Jam 27)](https://m8communityjam.bandcamp.com/track/prismatic-shift)  
-5. [Going - Synth/Trap Type Beat (Jam 28)](https://m8communityjam.bandcamp.com/track/going)  
-6. [Hot Honey - Hip-Hop/DnB/Voice Acting (Jam 29)](https://m8communityjam.bandcamp.com/track/hot-honey)  
-7. [Deepen - Hip-Hop, Beats, Instrumental (Jam 30)](https://m8communityjam.bandcamp.com/track/deepen)  
-8. [Fabrications - Ambient, Easy Listening, Downtempo(Jam 31)](https://m8communityjam.bandcamp.com/track/fabrications)  
-9. [Swansong - Synth Rock, Hardcore Pop (Jam 32)](https://m8communityjam.bandcamp.com/track/swansong)  
-10. [Unsettling - Synth, Alternative, Retro(Jam 33)](https://m8communityjam.bandcamp.com/track/unsettling)  
-11. [Without - Dark Synthwave, Vocals (Jam 34)](https://m8communityjam.bandcamp.com/track/without)  
-12. [Recursive - Synth, Experimental, Electronic (Jam 35)](https://m8communityjam.bandcamp.com/track/recursive)  
-13. [Since - Downtempo, Beats, Easy Listening, Neo-Soul(Jam 36)](https://m8communityjam.bandcamp.com/track/since)  
-14. [glimpse - Synthwave/DnB/Jungle (Jam 37)](https://m8communityjam.bandcamp.com/track/glimpse)  
-15. [blend - Dark HipHop/Pop/Voice Acting (Jam 38)](https://m8communityjam.bandcamp.com/track/blend)
+Everything below expands the internal logic of the story.
+This content is expository about the setting and world of Boogeyman.
+It’s here for people who like digging into how the world works.
 
 ---
 
-## Recollections (Plot Experience)
+### Recollections (Plot Experience)
 
 Enter: a dream.  
 A stage without walls, where aisles become corridors. I awaken to find a guide waiting in a setting constructed, fragmented, familiar, yet unknown.  
@@ -107,7 +101,7 @@ At this point, this idealized being recognizes that without the Nightmare at pla
 
 ---
 
-## The Dilemma
+### The Dilemma
 
 The idealized me maneuvers between dream sequences, searching for reasons to exist. None are found. The dreamworld, once based on fear, destabilizes into void.  
 
@@ -121,7 +115,7 @@ Crashes, fragments, echoes. I awaken into another dream, a city, a highway. Anot
 
 ---
 
-## The Transformation
+### The Transformation
 
 Eventually, confronted and desperate, I summon my idealized me again in his purest form. He does something unexpected: he devours the Nightmare, declaring that he has freed us from fear.  
 
@@ -134,7 +128,7 @@ The idealized me becomes the Boogeyman.
 
 ---
 
-## The Loop
+### The Loop
 
 The me I made has become my Boogeyman.  
 I must persist once again in this cycle, condemned to find a dream I can wake up from.  
@@ -178,6 +172,27 @@ The loop begins after the Boogeyman’s creation. Fear, creation, and collapse s
 **The Transformation and the Loop**  
 15. **Blend** — The summoning. Squid consumes fear. The loop begins.  
 
+
+---
+## 🎧 Full Track List
+
+All tracks available on [Bandcamp](https://m8communityjam.bandcamp.com/):
+
+1. [Boogeyman (Jam 24) - Soundscape/Composition/Voice](https://m8communityjam.bandcamp.com/track/boogeyman)  
+2. [Fleeting Visages - Downtempo/Soundscape (Jam 25)](https://m8communityjam.bandcamp.com/track/fleeting-visages)  
+3. [Bob’s Boss - Hip-hop, Dance, UK Drill , Themed Rap(Jam 26)](https://m8communityjam.bandcamp.com/track/bobs-boss)  
+4. [Prismatic Shift - Electronic/Dance/Up tempo/Hip-Hop(Jam 27)](https://m8communityjam.bandcamp.com/track/prismatic-shift)  
+5. [Going - Synth/Trap Type Beat (Jam 28)](https://m8communityjam.bandcamp.com/track/going)  
+6. [Hot Honey - Hip-Hop/DnB/Voice Acting (Jam 29)](https://m8communityjam.bandcamp.com/track/hot-honey)  
+7. [Deepen - Hip-Hop, Beats, Instrumental (Jam 30)](https://m8communityjam.bandcamp.com/track/deepen)  
+8. [Fabrications - Ambient, Easy Listening, Downtempo(Jam 31)](https://m8communityjam.bandcamp.com/track/fabrications)  
+9. [Swansong - Synth Rock, Hardcore Pop (Jam 32)](https://m8communityjam.bandcamp.com/track/swansong)  
+10. [Unsettling - Synth, Alternative, Retro(Jam 33)](https://m8communityjam.bandcamp.com/track/unsettling)  
+11. [Without - Dark Synthwave, Vocals (Jam 34)](https://m8communityjam.bandcamp.com/track/without)  
+12. [Recursive - Synth, Experimental, Electronic (Jam 35)](https://m8communityjam.bandcamp.com/track/recursive)  
+13. [Since - Downtempo, Beats, Easy Listening, Neo-Soul(Jam 36)](https://m8communityjam.bandcamp.com/track/since)  
+14. [glimpse - Synthwave/DnB/Jungle (Jam 37)](https://m8communityjam.bandcamp.com/track/glimpse)  
+15. [blend - Dark HipHop/Pop/Voice Acting (Jam 38)](https://m8communityjam.bandcamp.com/track/blend)
 ---
 
 ## Lore Appendix
