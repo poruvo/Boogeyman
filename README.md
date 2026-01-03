@@ -55,7 +55,7 @@ Three characters drive the narrative:
 - **The Nightmare** – A high-pitched parasitic presence attempting to overwrite the dreamer’s identity.
 - **Squid** – An idealized creation of the dreamer who gains awareness and begins to act on his own.
 
-At first, the dreamer fights their fear. But over time, both the nightmare and the idealization spiral into something stranger — a recursive horror where creations begin dreaming back.
+At first, the dreamer fights their fear. But over time, both the nightmare and the idealization spiral into something stranger - a recursive horror where creations begin dreaming back.
 
 ---
 
@@ -154,27 +154,27 @@ The loop begins after the Boogeyman’s creation. Fear, creation, and collapse s
 *Spoiler-light notes. Each track reflects atmosphere and experience more than direct explanation. Dialogue within the tracks hints at the rules of this world.*  
 
 **Opening (Fear’s Domain)**  
-1. **Boogeyman** — Opening dream. The Nightmare as guide. A crash. *“We ride at dawn.”*  
-2. **Fleeting Visages** — Fragile visions. The first collapse. Another crash.  
-3. **Bob’s Boss** — Fear wielding creation.  
-4. **Prismatic Shift** — Overwrite. My voice altered and distorted.  
-5. **Going** — Endless dream-walking inertia.  
+1. **Boogeyman** - Opening dream. The Nightmare as guide. A crash. *“We ride at dawn.”*  
+2. **Fleeting Visages** - Fragile visions. The first collapse. Another crash.  
+3. **Bob’s Boss** - Fear wielding creation.  
+4. **Prismatic Shift** - Overwrite. My voice altered and distorted.  
+5. **Going** - Endless dream-walking inertia.  
 
 **The Arrival of the Ideal**  
-6. **Hot Honey** — Emergence of the idealized me.  
-7. **Deepen** — Echoes of identity. *“I’m you.”*  
-8. **Fabrications** — Confrontation. Victory. Waking.  
-9. **Swansong** — The undoing of the idealized me.  
+6. **Hot Honey** - Emergence of the idealized me.  
+7. **Deepen** - Echoes of identity. *“I’m you.”*  
+8. **Fabrications** - Confrontation. Victory. Waking.  
+9. **Swansong** - The undoing of the idealized me.  
 
 **The Dilemma**  
-10. **Unsettling** — Restless waking. Resistance to sleep.  
-11. **Without** — Hollow existence; Squid wanders purposeless.  
-12. **Recursive** — Failed creation of a copy. Collapse.  
-13. **Since** — Dinner with the Nightmare. Explosion. *“Time to go.”*  
-14. **Glimpse** — The car. The crash. Meeting the “real” double.  
+10. **Unsettling** - Restless waking. Resistance to sleep.  
+11. **Without** - Hollow existence; Squid wanders purposeless.  
+12. **Recursive** - Failed creation of a copy. Collapse.  
+13. **Since** - Dinner with the Nightmare. Explosion. *“Time to go.”*  
+14. **Glimpse** - The car. The crash. Meeting the “real” double.  
 
 **The Transformation and the Loop**  
-15. **Blend** — The summoning. Squid consumes fear. The loop begins.  
+15. **Blend** - The summoning. Squid consumes fear. The loop begins.  
 
 
 ---
