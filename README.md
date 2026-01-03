@@ -26,8 +26,7 @@ A physical release is available as well.
 🎥[YouTube Playlist (2025)](https://www.youtube.com/watch?v=tAFss9tNX1w&list=PLplE2hKEV9b3xdf0F25YqJTqeH0WISWVn)
 
 ℹ️ The original mixes from 'Boogeyman' are M8 Community Jam tracks are hosted through the jam archive via Bandcamp.
-Proceeds from those releases go to charity via Playing For Change
-[Playing For Change](https://playingforchange.org/).
+Proceeds from those releases go to charity via [Playing For Change](https://playingforchange.org/).
 ⏬ [View full track list below](#-full-track-list)
 
 ---
