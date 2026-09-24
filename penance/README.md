@@ -220,21 +220,21 @@ I appreciate the M8 Community for seasonally following my rambling as well!
 
 ---
 
-# gon pulvo
+## gon pulvo
 
-**Website:** [gonpulvo.com](https://gonpulvo.com/)
-**EPK:** [epk.gonpulvo.com](https://epk.gonpulvo.com/)
-**Bandcamp:** [gonpulvo.bandcamp.com](https://gonpulvo.bandcamp.com/)
-**Spotify:** [gon pulvo on Spotify](https://open.spotify.com/artist/4HAYtJiiO0XJlo79hS2ySI)
-**Apple Music:** [gon pulvo on Apple Music](https://music.apple.com/us/artist/gon-pulvo/1333207681)
-**YouTube:** [@gonpulvo](https://youtube.com/@gonpulvo)
-**SoundCloud:** [soundcloud.com/poruvo](https://soundcloud.com/poruvo)
-**WeeklyBeats:** [weeklybeats.com/gonpulvo](https://weeklybeats.com/gonpulvo)
-**Instagram:** [@gonpulvo](https://instagram.com/gonpulvo)
-**X / Twitter:** [@gonpulvo](https://x.com/gonpulvo)
-**Listening Room:** [play.gonpulvo.com](https://play.gonpulvo.com/)
-**Shop:** [shop.gonpulvo.com](https://shop.gonpulvo.com/)
-**M8 Community Jam:** [m8communityjam.bandcamp.com](https://m8communityjam.bandcamp.com/)
+- **Website:** [gonpulvo.com](https://gonpulvo.com/)
+- **EPK:** [epk.gonpulvo.com](https://epk.gonpulvo.com/)
+- **Bandcamp:** [gonpulvo.bandcamp.com](https://gonpulvo.bandcamp.com/)
+- **Spotify:** [gon pulvo on Spotify](https://open.spotify.com/artist/4HAYtJiiO0XJlo79hS2ySI)
+- **Apple Music:** [gon pulvo on Apple Music](https://music.apple.com/us/artist/gon-pulvo/1333207681)
+- **YouTube:** [@gonpulvo](https://youtube.com/@gonpulvo)
+- **SoundCloud:** [soundcloud.com/poruvo](https://soundcloud.com/poruvo)
+- **WeeklyBeats:** [weeklybeats.com/gonpulvo](https://weeklybeats.com/gonpulvo)
+- **Instagram:** [@gonpulvo](https://instagram.com/gonpulvo)
+- **X / Twitter:** [@gonpulvo](https://x.com/gonpulvo)
+- **Listening Room:** [play.gonpulvo.com](https://play.gonpulvo.com/)
+- **Shop:** [shop.gonpulvo.com](https://shop.gonpulvo.com/)
+- **M8 Community Jam:** [m8communityjam.bandcamp.com](https://m8communityjam.bandcamp.com/)
 
 ---
 
